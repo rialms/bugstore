@@ -1,0 +1,2 @@
+# bugstore
+PREMIUM APP STORE FOR ANDROID
